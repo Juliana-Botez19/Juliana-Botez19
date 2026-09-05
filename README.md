@@ -8,7 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SaadQasim19&theme=onedark&margin-w=15&column=5&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Juliana-Botez19
+&theme=onedark&margin-w=15&column=5&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophy"/>
   </a>
 </div>
 
@@ -65,7 +66,8 @@
 - 💻 **Skills:**  
 
   - REST API Development, Scalable Architectures
-  - Backend: Node.js, NestJS, Express.js
+  - Backend: Go, Node.js
+  - Blockchain : Rust , Solana
 
 - 🌱 **Currently Exploring:**  
   - Blockchain development
